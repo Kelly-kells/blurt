@@ -1,7 +1,7 @@
 body{
     background-color:#007965;
     color: white;
-    
+    margin-top: -19px;
 }
 
 
@@ -24,6 +24,9 @@ h1{ font-family: 'New Rocker', cursive;
          width: 100%;
          position: fixed;
          opacity: 0.4;
+    }
+    body {
+        margin-top: 10px;
     }
 } 
  
